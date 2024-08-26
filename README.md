@@ -22,4 +22,7 @@ senha: GG001usuario
 - HTML
 - CSS
 
+### Hospedagem
+
+- Fly.io
 
